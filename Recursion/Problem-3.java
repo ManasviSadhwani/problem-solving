@@ -1,6 +1,6 @@
 //LeetCode Link - https://leetcode.com/problems/climbing-stairs/
 
-//This recursive solution is not acceptable on LeetCode. To avoid TLE -> use DP.
+//This recursive solution is not acceptable on LeetCode. To avoid TLE -> use DP approach.
 
 class Solution {
     public static int ways;
@@ -20,3 +20,8 @@ class Solution {
         return ways;
     }
 }
+
+/*
+    Time Complexity - O(2^n)
+    Space Complexity - O(n)
+*/
