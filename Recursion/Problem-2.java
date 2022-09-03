@@ -8,3 +8,8 @@ class Solution {
         return fib(n-1) + fib(n-2);
     }
 }
+
+/*
+    Time complexity - O(2^n)
+    Space Complexity - O(n)
+*/
