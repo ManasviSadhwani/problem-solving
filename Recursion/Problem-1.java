@@ -6,3 +6,8 @@ class Solution{
     return n*Factorial(n-1);
   }
 }
+
+/*
+  Time complexity - O(n)
+  Space complexity - O(n)
+*/
